@@ -1,0 +1,28 @@
+body section{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bdtech-courses{
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.bdtech-courses-btn{
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.bdtech-rdy-to-join{
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+.bdtech-sdudents-btn{
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+
+.bdtech-companies{
+    margin: 100px;
+}
